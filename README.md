@@ -1,5 +1,5 @@
 <h1 alig="center">
-  <image src="https://blog.dankicode.com/wp-content/uploads/2019/07/o-que-e%CC%81-react-js-650x350.png" width="100%"/>
+  <image src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="100%"/>
 </h1>
 
 - 🔭 I’m currently working in [Corebiz](https://www.corebiz.ag/)
