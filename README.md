@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React.JS, Javascript, React Native, HTML, CSS, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rcapeto](https://github.com/rcapeto)
+- 👨‍💻 All of my projects are available at [https://github.com/rcapeto?tab=repositories](https://github.com/rcapeto?tab=repositories)
 
 - 📫 How to reach me **raphaelcapeto@gmail.com**
 
