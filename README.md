@@ -2,7 +2,7 @@
   <image src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="100%"/>
 </h1>
 
-- 🔭 I’m currently working in [Corebiz](https://www.corebiz.ag/)
+- 🔭 I’m currently working at [Corebiz](https://www.corebiz.ag/)
 
 - 🌱 I’m currently learning **React.JS, Javascript, React Native, HTML, CSS, Node.js**
 
