@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at [Corebiz](https://www.corebiz.ag/)
 
-- 🌱 I’m currently learning **React.JS, Javascript, React Native, HTML, CSS, Node.js**
+- 🌱 I’m currently learning **VTEX, GraphQL, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rcapeto?tab=repositories](https://github.com/rcapeto?tab=repositories)
 
