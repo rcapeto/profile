@@ -2,9 +2,7 @@
   <image src="https://miro.medium.com/max/3200/1*OF0xEMkWBv-69zvmNs6RDQ.gif" width="100%"/>
 </h1>
 
-- 🔭 I’m currently working at [Corebiz](https://www.corebiz.ag/)
-
-- 🌱 I’m currently learning **VTEX, GraphQL, Next.js**
+- 🔭 I’m currently working at [Meutudo](https://meutudo.com.br/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/rcapeto?tab=repositories](https://github.com/rcapeto?tab=repositories)
 
