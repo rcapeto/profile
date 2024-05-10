@@ -1,6 +1,6 @@
 # Raphael Capeto
 
-Software Engineer at @Meutudo.
+Software Engineer.
 
 [![Instagram Badge](https://img.shields.io/badge/-@raphacapeto-1A1A1A?style=flat-square&labelColor=1A1A1A&logo=instagram&logoColor=white&link=https://instagram.com/raphacapeto)](https://instagram.com/raphacapeto)
 [![Twitter Badge](https://img.shields.io/badge/-@raphacapeto-1A1A1A?style=flat-square&labelColor=1A1A1A&logo=twitter&logoColor=white&link=https://twitter.com/raphacapeto)](https://twitter.com/raphacapeto) 
